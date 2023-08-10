@@ -2,5 +2,4 @@ streamlit
 pandas
 numpy
 joblib
-scikit-learn
-pickle
+scikit-learn=1.2.2
